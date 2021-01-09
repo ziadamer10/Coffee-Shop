@@ -1,0 +1,10 @@
+C:\Users\Ziad Amer\source\repos\2021OOP - CoffeeShop\2021OOP - CoffeeShop\bin\Debug\2021OOP - CoffeeShop.exe.config
+C:\Users\Ziad Amer\source\repos\2021OOP - CoffeeShop\2021OOP - CoffeeShop\bin\Debug\2021OOP - CoffeeShop.exe
+C:\Users\Ziad Amer\source\repos\2021OOP - CoffeeShop\2021OOP - CoffeeShop\bin\Debug\2021OOP - CoffeeShop.pdb
+C:\Users\Ziad Amer\source\repos\2021OOP - CoffeeShop\2021OOP - CoffeeShop\obj\Debug\2021OOP - CoffeeShop.csprojAssemblyReference.cache
+C:\Users\Ziad Amer\source\repos\2021OOP - CoffeeShop\2021OOP - CoffeeShop\obj\Debug\_2021OOP___CoffeeShop.Form1.resources
+C:\Users\Ziad Amer\source\repos\2021OOP - CoffeeShop\2021OOP - CoffeeShop\obj\Debug\_2021OOP___CoffeeShop.Properties.Resources.resources
+C:\Users\Ziad Amer\source\repos\2021OOP - CoffeeShop\2021OOP - CoffeeShop\obj\Debug\2021OOP - CoffeeShop.csproj.GenerateResource.cache
+C:\Users\Ziad Amer\source\repos\2021OOP - CoffeeShop\2021OOP - CoffeeShop\obj\Debug\2021OOP - CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\Ziad Amer\source\repos\2021OOP - CoffeeShop\2021OOP - CoffeeShop\obj\Debug\2021OOP - CoffeeShop.exe
+C:\Users\Ziad Amer\source\repos\2021OOP - CoffeeShop\2021OOP - CoffeeShop\obj\Debug\2021OOP - CoffeeShop.pdb
